@@ -4,5 +4,5 @@ This repository contains all of my algorithms/functions developed for Mech105, n
 The algorithms are:
 1. False Position
 2. Simpson's Rule
-3. Matrix Factorization
+3. LU Matrix Factorization
 4. a program that calculates the Julian Date
