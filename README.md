@@ -5,4 +5,3 @@ The algorithms are:
 1. False Position
 2. Simpson's Rule
 3. LU Matrix Factorization
-4. a program that calculates the Julian Date
